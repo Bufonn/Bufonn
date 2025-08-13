@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor FullStack`**
 
-Me chamo Matheus Bufon Alves, tenho 17 anos e sou de Campinas. Estou cursando o ensino médio com o curso técnico em Desenvolvimento de Sistemas na ETEC Bento Quirino. Sou apaixonado por tecnologia e tenho essa paixão desde quando eu era bem pequeno. 
+Meu nome é Matheus Bufon Alves, tenho 17 anos e sou natural de Campinas. Atualmente, curso o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas na ETEC Bento Quirino. A tecnologia sempre fez parte da minha vida e, desde muito cedo, despertou em mim uma paixão que só cresce com o tempo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bufon-642019332/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattheusbufon/)
