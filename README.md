@@ -3,7 +3,7 @@
 **`Futuro Desenvolvedor FullStack`**
 
 💻| Desenvolvedor em formação | Técnico em Desenvolvimento de Sistemas – ETEC Bento Quirino  
-🌱| 17 anos cultivando curiosidade e explorando o mundo da tecnologia  
+🌱| 18 anos cultivando curiosidade e explorando o mundo da tecnologia  
 🚀| Transformando ideias em código desde cedo  
 📍| Campinas – SP  
 
